@@ -1,0 +1,4 @@
+Adapt for KDE and Ubuntu
+qdbus org.kde.screenlocker /MainApplication quit
+
+Implement event objects to try to reduce CPU usage: https://docs.python.org/3/library/threading.html#event-objects
